@@ -67,4 +67,4 @@ The full write-up is in [`report/project1.pdf`](report/project1.pdf).
 
 Muhammad Ridwanul Hoque, Graduate Student, University of Oklahoma
 
-Course project for CS 4033/5033 (Fall 2026). AI assistance was used as permitted by the course; see the report's final section for details.
+Course project for CS 4033/5033 (Fall 2026). See the report's final section for details.
